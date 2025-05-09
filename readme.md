@@ -1,4 +1,4 @@
-# MCP TimeServer - 轻量级PHP MCP服务器实现
+#  轻量级PHP MCP服务器实现
 
 [![Version](https://img.shields.io/badge/version-0.8.0-blue.svg)](https://github.com/your-repo/mcp-timeserver) [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
